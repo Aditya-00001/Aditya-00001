@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Narayan Jena</h1>
-<h3 align="center">Full-Stack Machine Learning Developer | Innovator | CSE @ IGIT Sarang</h3>
+<h3 align="center">Full-Stack Machine Learning Student Developer | Innovator | CSE @ IGIT Sarang</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🚀+Building+AI-Powered+Real-World+Apps;🎯+Aspiring+ML+Engineer;💡+Passionate+about+Tech+for+Good" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 - 🌱 Learning **LLM development, SaaS architecture, computer vision**
 - 👨‍💻 Projects at: [adityanarayanjena.github.io](https://adityanarayanjena.github.io)
 - 💬 Ask me about: **Django, React, Flutter, Chrome Extensions, AI Projects**
-- 📫 Email me at: **[adityanarayanjena2003@gmail.com](mailto:adityanarayanjena2003@gmail.com)**
+- 📫 Email me at: **[adityanjena1@gmail.com](mailto:adityanjena1gmail.com)**
 - ⚡ Fun fact: I love solving **real-life problems with AI**
 
 ---
@@ -35,21 +35,7 @@
 ---
 
 ### 🏆 Achievements & Certifications
-
-- 🏅 **AI For Good Hackathon Finalist** – Built an AI crime prediction system
-- 📜 **Google Cloud ML Scholarship** recipient
 - 🧠 **Top 3 Project at AI/ML Bootcamp** – Real-time EEG analysis
-- 👨‍🏫 **ML Mentor** – Taught ML basics to 100+ peers
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityanarayanjena&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityanarayanjena&theme=tokyonight&hide_border=false" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanarayanjena&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
 
 ---
 
