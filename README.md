@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Smart Guardian**, a voluntary parental control app with NSFW detection
 - 🌱 Learning **LLM development, SaaS architecture, computer vision**
-- 👨‍💻 Projects at: [adityanarayanjena.github.io](https://adityanarayanjena.github.io)
+- 👨‍💻 Projects at: [https://github.com/Aditya-00001/Aditya-00001/](https://github.com/Aditya-00001/Aditya-00001/)
 - 💬 Ask me about: **Django, React, Flutter, Chrome Extensions, AI Projects**
 - 📫 Email me at: **[adityanjena1@gmail.com](mailto:adityanjena1gmail.com)**
 - ⚡ Fun fact: I love solving **real-life problems with AI**
