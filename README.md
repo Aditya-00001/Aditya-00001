@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Smart Guardian**, a voluntary parental control app with NSFW detection
 - 🌱 Learning **LLM development, SaaS architecture, computer vision**
-- 👨‍💻 Projects at: [https://github.com/Aditya-00001/Aditya-00001/](https://github.com/Aditya-00001/Aditya-00001/)
+- 👨‍💻 Projects at: [https://github.com/Aditya-00001/](https://github.com/Aditya-00001/)
 - 💬 Ask me about: **Django, React, Flutter, Chrome Extensions, AI Projects**
 - 📫 Email me at: **[adityanjena1@gmail.com](mailto:adityanjena1gmail.com)**
 - ⚡ Fun fact: I love solving **real-life problems with AI**
@@ -49,13 +49,13 @@
 ### 🌐 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/adityanarayanjena" target="blank">
+  <a href="https://linkedin.com/in/adityanjena" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adityanarayanjena2003@gmail.com">
+  <a href="mailto:adityanarayanjena2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://adityanarayanjena.github.io/">
+  <a href="https://github.com/Aditya-00001/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
