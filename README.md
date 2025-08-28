@@ -35,13 +35,8 @@
 
 ### 🏆 Achievements & Certifications
 - 🧠 **Top 3 Project at AI/ML Bootcamp** – Real-time EEG analysis
-
----
-
-### 📌 Pinned Projects
-
-[![Customer-Support-Analyzer](https://github.com/Aditya-00001/Customer-Support-Analyzer)]. 
-[![protectshe](https://github-readme-stats.vercel.app/api/pin/?username=adityanarayanjena&repo=protectshe&theme=radical)](https://github.com/adityanarayanjena/protectshe)
+                                           Robust Attendance managament system using sound classification
+- ** Cartified SAP ABAP Backend developer **
 
 ---
 
