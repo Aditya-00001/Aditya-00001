@@ -40,7 +40,7 @@
 
 ### 📌 Pinned Projects
 
-[![Smart Guardian](https://github-readme-stats.vercel.app/api/pin/?username=adityanarayanjena&repo=Smart-Guardian&theme=radical)](https://github.com/adityanarayanjena/Smart-Guardian)  
+[![Customer-Support-Analyzer](https://github.com/Aditya-00001/Customer-Support-Analyzer)]. 
 [![protectshe](https://github-readme-stats.vercel.app/api/pin/?username=adityanarayanjena&repo=protectshe&theme=radical)](https://github.com/adityanarayanjena/protectshe)
 
 ---
